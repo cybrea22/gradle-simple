@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: Default
+pool: Test.net6
 
 steps:
 - task: Gradle@2
