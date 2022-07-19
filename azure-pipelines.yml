@@ -14,6 +14,6 @@ steps:
     testResultsFiles: '**/TEST-*.xml'
     javaHomeOption: 'JDKVersion'
     jdkVersionOption: '1.8'
-    gradleOptions: '-Xmx3072m'
+    gradleOptions: '-Xmx1024m'
     sonarQubeRunAnalysis: false
     spotBugsAnalysis: false
